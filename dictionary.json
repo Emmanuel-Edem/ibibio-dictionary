@@ -1,5 +1,13 @@
 {
   "hello": { "translation": "ekom", "audioFile": "where-are-you.mp3" },
   "water": { "translation": "mmòńg", "audioFile": "water.mp3" },
-  "thank you": { "translation": "ndiam", "audioFile": "song.mp3" }
+  "good morning": { "translation": "amesiere", "audioFile": "song.mp3" }
+  "thank you": { "translation": "sosongo", "audioFile": "song.mp3" }
+  "jump": { "translation": "tamma", "audioFile": "song.mp3" }
+  "come here": { "translation": "di mi", "audioFile": "song.mp3" }
+  "sit down": { "translation": "suk tie", "audioFile": "song.mp3" }
+  "clap your hand": { "translation": "mia ubok", "audioFile": "song.mp3" }
+  "stop": { "translation": "tere", "audioFile": "song.mp3" }
+  "eat": { "translation": "dia", "audioFile": "song.mp3" }
+  "take": { "translation": "mbò", "audioFile": "song.mp3" }
 }
