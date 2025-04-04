@@ -1,0 +1,5 @@
+{
+  "hello": { "translation": "ekom", "audioFile": "hello.mp3" },
+  "water": { "translation": "mmòńg", "audioFile": "water.mp3" },
+  "thank you": { "translation": "ndiam", "audioFile": "thank_you.mp3" }
+}
